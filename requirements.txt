@@ -1,0 +1,12 @@
+streamlit==1.32.0
+google-auth-oauthlib==1.2.0
+google-api-python-client==2.108.0
+python-dotenv==1.0.0
+pandas==2.0.3
+numpy==1.26.0
+plotly==5.18.0
+ollama==0.1.6
+python-magic==0.4.27
+python-magic-bin==0.4.14; sys_platform == 'win32'
+xlrd==2.0.1
+openpyxl==3.1.2
